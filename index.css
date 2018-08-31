@@ -1,0 +1,13 @@
+body {
+  font-family: cursive;
+  background-image: url('https://images.alphacoders.com/102/thumb-1920-102211.jpg');
+  background-size:     cover;
+  background-repeat:   no-repeat;
+  background-position: center center;
+}
+
+.fff {
+  width: 200px;
+  display: flex;
+  justify-content: space-between;
+}
